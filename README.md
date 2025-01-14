@@ -1,1 +1,1 @@
-#1502-001: Lec-02 shared code
+# 1502-001: Lec-02 shared code
